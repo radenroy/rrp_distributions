@@ -30,3 +30,5 @@ print(new_binomial.p) # print probability
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
+
+-- I'm still working to add more distributions into the package --

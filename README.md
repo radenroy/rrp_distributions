@@ -1,4 +1,4 @@
-# Foobar
+# rrp_distributions
 
 rrp_distributions is a Python library for probability distributions.
 
